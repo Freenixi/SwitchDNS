@@ -23,8 +23,14 @@ Choose DNS Configuration: Select one of the DNS configuration options:
 1. Google DNS
 2. Default DNS (obtain DNS server address automatically)
 3. NOTO DNS
-4. Manual entry of DNS server addresses
-(Manual DNS Entry (If Selected): If you choose to manually enter DNS server addresses, you will be prompted to enter the primary and (optionally) secondary DNS server addresses.)
+4. Cloudflare
+5. Quad9
+6. AdGuard DNS
+7. YandexFamily
+8. CleanBrowsing
+9. OpenDNS
+10. Custom - Manual entry of DNS server addresses 
+[Custom (If Selected): If you choose to manually enter DNS server addresses, you will be prompted to enter the primary and (optionally) secondary DNS server addresses.]
 +
 Completion: Once you've made your selection, the script will apply the changes, and you'll see a message indicating the operation is completed.
 
