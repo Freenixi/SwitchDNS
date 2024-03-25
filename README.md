@@ -1,6 +1,6 @@
 DNS Switcher Script
 -
-The DNS Switcher Script is a Windows batch file designed to help users easily switch their network interface's DNS settings among Google DNS, default DNS, NOTO DNS, or manually specified DNS servers. Additionally, it offers the option to print all network configurations before making changes.
+The DNS Switcher Script is a Windows batch file crafted to empower users with the flexibility to switch their network interface's DNS settings to Google DNS (for enhanced speed and reliability, especially with Google services), Default DNS (provided by your ISP, potentially offering better local content delivery), NOTO DNS (optimized for surfing Web3 domains), or Custom DNS (tailored for other specific needs). Additionally, it provides the convenience of printing all network configurations before any modifications, ensuring users make informed changes.
 
 Features
 -
